@@ -1,0 +1,20 @@
+C:\Users\Telecom\source\repos\S6-T3-2024\MorpionV1\bin\Debug\MorpionV1.exe.config
+C:\Users\Telecom\source\repos\S6-T3-2024\MorpionV1\bin\Debug\MorpionV1.exe
+C:\Users\Telecom\source\repos\S6-T3-2024\MorpionV1\bin\Debug\MorpionV1.pdb
+C:\Users\Telecom\source\repos\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.csproj.AssemblyReference.cache
+C:\Users\Telecom\source\repos\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.Form1.resources
+C:\Users\Telecom\source\repos\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.Properties.Resources.resources
+C:\Users\Telecom\source\repos\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.csproj.GenerateResource.cache
+C:\Users\Telecom\source\repos\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.csproj.CoreCompileInputs.cache
+C:\Users\Telecom\source\repos\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.exe
+C:\Users\Telecom\source\repos\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.pdb
+C:\Users\expert info\Desktop\C#\S6-T3-2024\MorpionV1\bin\Debug\MorpionV1.exe.config
+C:\Users\expert info\Desktop\C#\S6-T3-2024\MorpionV1\bin\Debug\MorpionV1.exe
+C:\Users\expert info\Desktop\C#\S6-T3-2024\MorpionV1\bin\Debug\MorpionV1.pdb
+C:\Users\expert info\Desktop\C#\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.csproj.AssemblyReference.cache
+C:\Users\expert info\Desktop\C#\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.Form1.resources
+C:\Users\expert info\Desktop\C#\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.Properties.Resources.resources
+C:\Users\expert info\Desktop\C#\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.csproj.GenerateResource.cache
+C:\Users\expert info\Desktop\C#\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.csproj.CoreCompileInputs.cache
+C:\Users\expert info\Desktop\C#\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.exe
+C:\Users\expert info\Desktop\C#\S6-T3-2024\MorpionV1\obj\Debug\MorpionV1.pdb

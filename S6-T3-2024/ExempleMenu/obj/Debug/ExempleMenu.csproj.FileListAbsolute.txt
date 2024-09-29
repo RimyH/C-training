@@ -1,0 +1,10 @@
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExempleMenu\bin\Debug\ExempleMenu.exe.config
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExempleMenu\bin\Debug\ExempleMenu.exe
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExempleMenu\bin\Debug\ExempleMenu.pdb
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExempleMenu\obj\Debug\ExempleMenu.csproj.AssemblyReference.cache
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExempleMenu\obj\Debug\ExempleMenu.Form1.resources
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExempleMenu\obj\Debug\ExempleMenu.Properties.Resources.resources
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExempleMenu\obj\Debug\ExempleMenu.csproj.GenerateResource.cache
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExempleMenu\obj\Debug\ExempleMenu.csproj.CoreCompileInputs.cache
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExempleMenu\obj\Debug\ExempleMenu.exe
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExempleMenu\obj\Debug\ExempleMenu.pdb

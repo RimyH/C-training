@@ -1,0 +1,10 @@
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExoRGB\bin\Debug\ExoRGB.exe.config
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExoRGB\bin\Debug\ExoRGB.exe
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExoRGB\bin\Debug\ExoRGB.pdb
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExoRGB\obj\Debug\ExoRGB.csproj.AssemblyReference.cache
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExoRGB\obj\Debug\ExoRGB.Form1.resources
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExoRGB\obj\Debug\ExoRGB.Properties.Resources.resources
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExoRGB\obj\Debug\ExoRGB.csproj.GenerateResource.cache
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExoRGB\obj\Debug\ExoRGB.csproj.CoreCompileInputs.cache
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExoRGB\obj\Debug\ExoRGB.exe
+C:\Users\expert info\Desktop\C#\S6-T3-2024\ExoRGB\obj\Debug\ExoRGB.pdb

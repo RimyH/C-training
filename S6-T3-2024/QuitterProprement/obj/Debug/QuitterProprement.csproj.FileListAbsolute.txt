@@ -1,0 +1,10 @@
+C:\Users\Telecom\source\repos\S6-T3-2024\QuitterProprement\bin\Debug\QuitterProprement.exe.config
+C:\Users\Telecom\source\repos\S6-T3-2024\QuitterProprement\bin\Debug\QuitterProprement.exe
+C:\Users\Telecom\source\repos\S6-T3-2024\QuitterProprement\bin\Debug\QuitterProprement.pdb
+C:\Users\Telecom\source\repos\S6-T3-2024\QuitterProprement\obj\Debug\QuitterProprement.csproj.AssemblyReference.cache
+C:\Users\Telecom\source\repos\S6-T3-2024\QuitterProprement\obj\Debug\QuitterProprement.Properties.Resources.resources
+C:\Users\Telecom\source\repos\S6-T3-2024\QuitterProprement\obj\Debug\QuitterProprement.csproj.GenerateResource.cache
+C:\Users\Telecom\source\repos\S6-T3-2024\QuitterProprement\obj\Debug\QuitterProprement.csproj.CoreCompileInputs.cache
+C:\Users\Telecom\source\repos\S6-T3-2024\QuitterProprement\obj\Debug\QuitterProprement.exe
+C:\Users\Telecom\source\repos\S6-T3-2024\QuitterProprement\obj\Debug\QuitterProprement.pdb
+C:\Users\Telecom\source\repos\S6-T3-2024\QuitterProprement\obj\Debug\QuitterProprement.Form1.resources
