@@ -1,0 +1,10 @@
+C:\Users\expert info\Desktop\S5-T3-2024\Saisienumtel\bin\Debug\Saisienumtel.exe.config
+C:\Users\expert info\Desktop\S5-T3-2024\Saisienumtel\bin\Debug\Saisienumtel.exe
+C:\Users\expert info\Desktop\S5-T3-2024\Saisienumtel\bin\Debug\Saisienumtel.pdb
+C:\Users\expert info\Desktop\S5-T3-2024\Saisienumtel\obj\Debug\Saisienumtel.csproj.AssemblyReference.cache
+C:\Users\expert info\Desktop\S5-T3-2024\Saisienumtel\obj\Debug\Saisienumtel.Form1.resources
+C:\Users\expert info\Desktop\S5-T3-2024\Saisienumtel\obj\Debug\Saisienumtel.Properties.Resources.resources
+C:\Users\expert info\Desktop\S5-T3-2024\Saisienumtel\obj\Debug\Saisienumtel.csproj.GenerateResource.cache
+C:\Users\expert info\Desktop\S5-T3-2024\Saisienumtel\obj\Debug\Saisienumtel.csproj.CoreCompileInputs.cache
+C:\Users\expert info\Desktop\S5-T3-2024\Saisienumtel\obj\Debug\Saisienumtel.exe
+C:\Users\expert info\Desktop\S5-T3-2024\Saisienumtel\obj\Debug\Saisienumtel.pdb

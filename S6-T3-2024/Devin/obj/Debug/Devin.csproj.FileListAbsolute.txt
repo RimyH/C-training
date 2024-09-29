@@ -1,0 +1,20 @@
+C:\Users\Telecom\source\repos\S5-T3-2024\Devin\bin\Debug\Devin.exe.config
+C:\Users\Telecom\source\repos\S5-T3-2024\Devin\bin\Debug\Devin.exe
+C:\Users\Telecom\source\repos\S5-T3-2024\Devin\bin\Debug\Devin.pdb
+C:\Users\Telecom\source\repos\S5-T3-2024\Devin\obj\Debug\Devin.Form1.resources
+C:\Users\Telecom\source\repos\S5-T3-2024\Devin\obj\Debug\Devin.Properties.Resources.resources
+C:\Users\Telecom\source\repos\S5-T3-2024\Devin\obj\Debug\Devin.csproj.GenerateResource.cache
+C:\Users\Telecom\source\repos\S5-T3-2024\Devin\obj\Debug\Devin.csproj.CoreCompileInputs.cache
+C:\Users\Telecom\source\repos\S5-T3-2024\Devin\obj\Debug\Devin.exe
+C:\Users\Telecom\source\repos\S5-T3-2024\Devin\obj\Debug\Devin.pdb
+C:\Users\Telecom\source\repos\S5-T3-2024\Devin\obj\Debug\Devin.csproj.AssemblyReference.cache
+C:\Users\expert info\Desktop\S5-T3-2024\Devin\bin\Debug\Devin.exe.config
+C:\Users\expert info\Desktop\S5-T3-2024\Devin\bin\Debug\Devin.exe
+C:\Users\expert info\Desktop\S5-T3-2024\Devin\bin\Debug\Devin.pdb
+C:\Users\expert info\Desktop\S5-T3-2024\Devin\obj\Debug\Devin.csproj.AssemblyReference.cache
+C:\Users\expert info\Desktop\S5-T3-2024\Devin\obj\Debug\Devin.Form1.resources
+C:\Users\expert info\Desktop\S5-T3-2024\Devin\obj\Debug\Devin.Properties.Resources.resources
+C:\Users\expert info\Desktop\S5-T3-2024\Devin\obj\Debug\Devin.csproj.GenerateResource.cache
+C:\Users\expert info\Desktop\S5-T3-2024\Devin\obj\Debug\Devin.csproj.CoreCompileInputs.cache
+C:\Users\expert info\Desktop\S5-T3-2024\Devin\obj\Debug\Devin.exe
+C:\Users\expert info\Desktop\S5-T3-2024\Devin\obj\Debug\Devin.pdb
